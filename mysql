@@ -4,3 +4,4 @@ CREATE TABLE shop (
    price DECIMAL(16,2) DEFAULT '0.00' NOT NULL,
    PRIMARY KEY(article, dealer)
 );
+inserted something
