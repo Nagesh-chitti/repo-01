@@ -1,3 +1,4 @@
 SELECT *
 FROM employees;
-hloo
+SELECT *
+FROM emp;
